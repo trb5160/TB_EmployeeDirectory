@@ -23,8 +23,9 @@
   ## Questions
   See my contact info below if you have any questions.
   ## Usage
-  ![Alt text](./assets/websitescreenshot.jpg)
-  https://drive.google.com/file/d/1HKUFZ0MIwwLjQVfXpHMgvRwzvrvAeURu/view
+  ![Alt text](/assets/websitescreenshot.jpg)
+  https://drive.google.com/file/d/1ecIYGFAkuQg_vgDyfXVyxK7OgLFvSL1E/view
+ 
 
   ## Links
   Heroku: https://blooming-inlet-66521.herokuapp.com/
