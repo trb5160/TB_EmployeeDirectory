@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trb5160/tb_user_directory.git/static/css/main.5d03838b.chunk.css",
+    "main.js": "/trb5160/tb_user_directory.git/static/js/main.f31f98b5.chunk.js",
+    "main.js.map": "/trb5160/tb_user_directory.git/static/js/main.f31f98b5.chunk.js.map",
+    "runtime-main.js": "/trb5160/tb_user_directory.git/static/js/runtime-main.628927f5.js",
+    "runtime-main.js.map": "/trb5160/tb_user_directory.git/static/js/runtime-main.628927f5.js.map",
+    "static/css/2.4be38407.chunk.css": "/trb5160/tb_user_directory.git/static/css/2.4be38407.chunk.css",
+    "static/js/2.c596c0bb.chunk.js": "/trb5160/tb_user_directory.git/static/js/2.c596c0bb.chunk.js",
+    "static/js/2.c596c0bb.chunk.js.map": "/trb5160/tb_user_directory.git/static/js/2.c596c0bb.chunk.js.map",
+    "static/js/3.354143d2.chunk.js": "/trb5160/tb_user_directory.git/static/js/3.354143d2.chunk.js",
+    "static/js/3.354143d2.chunk.js.map": "/trb5160/tb_user_directory.git/static/js/3.354143d2.chunk.js.map",
+    "index.html": "/trb5160/tb_user_directory.git/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/trb5160/tb_user_directory.git/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.5d03838b.chunk.css.map": "/trb5160/tb_user_directory.git/static/css/main.5d03838b.chunk.css.map",
+    "static/js/2.c596c0bb.chunk.js.LICENSE.txt": "/trb5160/tb_user_directory.git/static/js/2.c596c0bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.628927f5.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.c596c0bb.chunk.js",
+    "static/css/main.5d03838b.chunk.css",
+    "static/js/main.f31f98b5.chunk.js"
+  ]
+}
