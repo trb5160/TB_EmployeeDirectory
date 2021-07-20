@@ -14,8 +14,6 @@
   
   ## Installation
   Go to the app's folder and run npm install, followed by npm start to run the app.
-  ## Usage
-  
   ## License
   MIT License
   ## Contributing
